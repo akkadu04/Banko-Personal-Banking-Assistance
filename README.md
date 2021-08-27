@@ -1,5 +1,5 @@
 
-<h1 align="center">Chest-Xrays-Pneumonia-Prediction</h1>
+<h1 align="center">Banko:Personal Banking Navigator</h1>
 
 <div align= "center">
   <h4>Chest-Xray-Pneumonia-Prediction built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts. </h4>
