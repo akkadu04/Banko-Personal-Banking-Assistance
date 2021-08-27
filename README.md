@@ -14,7 +14,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/dheeraj-sharma-142bb0190/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<p align="center"><img src="https://github.com/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction/blob/main/Outputs/Non%20pneumonia.png" width="700" height="400"></p>
+<p align="center"><img src="https://github.com/akkadu04/Banko-Personal-Banking-Assistance/blob/main/Outputs/logo.png" width="700" height="400"></p>
 <p align="center"><b>Non Pneumonia</b></p>
 
 ## :innocent: Motivation
