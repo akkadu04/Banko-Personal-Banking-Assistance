@@ -15,7 +15,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p align="center"><img src="https://github.com/akkadu04/Banko-Personal-Banking-Assistance/blob/main/Outputs/logo.png" width="700" height="400"></p>
-<p align="center"><b>Non Pneumonia</b></p>
+<p align="center"><b>Banko-Your Personal Assistance</b></p>
 
 ## :innocent: Motivation
 A Deep Learning based model used for the prediction whether a person is suffering from pneumonia or not. The project is absed upon the Standard __Convolutional Based Neural Network__ Architectural Implementation. It incorporates the use of CNN layers with Hyper-parameters tuning. The motivation behind the project is to effectively classify the reports of chest xrays to classify into pneumonia or non-pneumonia cases.
