@@ -2,7 +2,7 @@
 <h1 align="center">Banko:Personal Banking Navigator</h1>
 
 <div align= "center">
-  <h4>Chest-Xray-Pneumonia-Prediction built with OpenCV, Keras/TensorFlow using Deep Learning and Computer Vision concepts. </h4>
+  <h4>A Socket Programming architecture based terminal based system </h4>
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -15,7 +15,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <p align="center"><img src="https://github.com/akkadu04/Banko-Personal-Banking-Assistance/blob/main/Outputs/logo.png" width="700" height="400"></p>
-<p align="center"><b>Banko-Your Personal Assistance</b></p>
+<p align="center"><b>Banko-Your Personal Banking Navigator</b></p>
 
 ## :innocent: Motivation
 It is very difficult for an individual to find a bank in a new city to which he/she is completely stranger.
