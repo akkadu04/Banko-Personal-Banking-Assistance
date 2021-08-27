@@ -41,11 +41,25 @@ So, we came up with an idea in which we ask the person the nearby famous landmar
 
 <p align="center"><b>ServerSide Flowchart</b></p>
 
-## :⚠: TechStack/framework used
 
-- [OpenCV](https://opencv.org/)
-- [Keras](https://keras.io/)
-- [TensorFlow](https://www.tensorflow.org/)
+## :star: Algorithm
+
+STEP 1:START<br>
+STEP 2: Establish secure connection between client sever(Enter proper ip address)<br>
+STEP 3:Fix errors(if any) while establishing connection.<br>
+STEP 4:After establishing connection ask (user)client side to enter the choice.<br>
+STEP 5: On client side, check if the choice is valid or not.<br>
+If( not valid)<br>
+ ask user to enter a valid choice<br>
+Else<br>
+  Send choice to server
+STEP 6:Server Side Recieve the choice sent by client<br>
+STEP 7:Load the contents of file associated with the choice into buffer and send it to client side.<br>
+STEP 8:The result is displayed on the client side to the user (as soon as buffer arrives on the client side)<br>
+STEP 9:END<br>
+
+
+
 
 
 ## :file_folder: Data Distribution
