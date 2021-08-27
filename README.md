@@ -32,12 +32,12 @@ So, we came up with an idea in which we ask the person the nearby famous landmar
 
 ## ⚠: FlowChart
 
-<p align="center"><img src="https://github.com/akkadu04/Banko-Personal-Banking-Assistance/blob/main/Outputs/ClientFlow.png" width="700" height="400"></p>
+<p align="center"><img src="https://github.com/akkadu04/Banko-Personal-Banking-Assistance/blob/main/Outputs/ClientFlow.png" width="781" height="794"></p>
 
 <p align="center"><b>ClientSide Flowchart</b></p>
 
 
-<p align="center"><img src="https://github.com/akkadu04/Banko-Personal-Banking-Assistance/blob/main/Outputs/ServerFlow.png" width="700" height="400"></p>
+<p align="center"><img src="https://github.com/akkadu04/Banko-Personal-Banking-Assistance/blob/main/Outputs/ServerFlow.png" width="724" height="743"></p>
 
 <p align="center"><b>ServerSide Flowchart</b></p>
 
