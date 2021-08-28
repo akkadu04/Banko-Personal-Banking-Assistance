@@ -2,7 +2,7 @@
 <h1 align="center">Banko:Personal Banking Navigator</h1>
 
 <div align= "center">
-  <h4>A Socket Programming architecture based terminal based system </h4>
+  <h4>A Socket Programming architecture based terminal system </h4>
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
