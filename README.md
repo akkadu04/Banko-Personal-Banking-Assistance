@@ -61,79 +61,25 @@ STEP 9:END<br>
 
 
 
-
-## :file_folder: Data Distribution
-The dataset used can be downloaded here - [Click to Download](https://drive.google.com/drive/folders/1f6QGKHQ2rJD3jCrumAKXPbUg_Q8TenFz?usp=sharing)
-
-This dataset consists of __images__ belonging to 2 classes:
-<!---*	__Training Set: 12845 images__<br />
-<p align="center"><img src="https://github.com/beingaryan/Sign-To-Speech-Conversion/blob/master/Analysis/train_data_distribution.png" ></br><b>Train Data Statistics</b></p>
-<!---<br />![](Analysis/train_data_distribution.png)<br />--->
-
-<!---*	__Test Set: 4368 images__<br />
-<p align="center"><img src="https://github.com/beingaryan/Sign-To-Speech-Conversion/blob/master/Analysis/test_data_Distribution.png" ></br><b>Test Data Statistics</b></p>
-<!---<br />![](Analysis/train_data_distribution.png)<br />--->
-
-
-
-## :star: Features
-Our model is capable of predicting Pneumonia from chest x-ray images with high efficiency. These __predicted images__ are converted to grayscale version for predictions.</br></br>
-The model is efficient, since we used a compact __CNN-based architecture__, it’s also computationally efficient and thus making it easier to deploy the model to servers.
-<!---
-## 🎨 Feature Extraction
-* Gaussian filter is used as a pre-processing technique to make the image smooth and eliminate all the irrelevat noise.
-* Intensity is analyzed and Non-Maximum suppression is implemented to remove false edges.
-* For a better pre-processed image data, double thresholding is implemented to consider only the strong edges in the images.
-* All the weak edges are finally removed and only the strong edges are consdered for the further phases. <br />
-<br />![](Analysis/fe.png)<br />
-The above figure shows pre-processed image with extracted features which is sent to the model for classification.--->
-
-
-## :key: Prerequisites
-
-All the dependencies and required libraries are included in the file <code>requirements.txt</code> [See here](https://github.com/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction/blob/main/requirements.txt)
-
-## 🚀&nbsp; Installation
-1. Start and fork the repository.
-
-2. Clone the repo
-```
-$ git clone https://github.com/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction.git
-```
-
-3. Change your directory to the cloned repo and create a Python virtual environment named 'test'
-```
-$ mkvirtualenv test
-```
-
-4. Now, run the following command in your Terminal/Command Prompt to install the libraries required
-```
-$ pip3 install -r requirements.txt
-```
-
-## :bulb: Working
-
-1. Open terminal. Go into the cloned project directory and type the following command:
-```
-$ python3 jupyter
-```
-
-2. To train the model, open the [Pneumonia_Prediction](https://github.com/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction/blob/main/PNEUMONIA_DETECTION.ipynb) file in jupyter notebook and run all the cells </br>
-
-</br></br>
 ## :key: Results 
-#### Our model gave 98.51% accuracy for validation set of Pneumonia Detection via <code>tensorflow-gpu==2.0.0</code>
-<br />
-* The model has been trained on a python based environment on Jupyter platform.
-* The model is iterated for a total epoch of 12. 
-* The model has attained an accuracy of __98.51 %__ accuracy on the Validation set.
 
-#### We got the following accuracy vs. epochs curve plot
-![](https://github.com/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction/blob/main/Outputs/accuracy%20vs%20epochs.png)<br />
-#### The above figure shows the Accracy plot of the model throughout it's training journey. 
+## Client Side
+#### Client Window
+![](https://github.com/akkadu04/Banko-Personal-Banking-Assistance/blob/main/Outputs/Client1.png)<br />
+![](https://github.com/akkadu04/Banko-Personal-Banking-Assistance/blob/main/Outputs/Client2.png)<br />
+![](https://github.com/akkadu04/Banko-Personal-Banking-Assistance/blob/main/Outputs/Client3.png)<br />
+![](https://github.com/akkadu04/Banko-Personal-Banking-Assistance/blob/main/Outputs/Client4.png)<br />
+![](https://github.com/akkadu04/Banko-Personal-Banking-Assistance/blob/main/Outputs/Client5.png)<br />
 
-<br /><br />![](https://github.com/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction/blob/main/Outputs/loss%20vs%20epochs.png)<br/>
-#### The above figure shows the Loss plot of the model throughout it's training journey. 
+## Server Side
+#### Server Window
+![](https://github.com/akkadu04/Banko-Personal-Banking-Assistance/blob/main/Outputs/Server1.png)<br />
+![](https://github.com/akkadu04/Banko-Personal-Banking-Assistance/blob/main/Outputs/Server2.png)<br />
+![](https://github.com/akkadu04/Banko-Personal-Banking-Assistance/blob/main/Outputs/Server3.png)<br />
+![](https://github.com/akkadu04/Banko-Personal-Banking-Assistance/blob/main/Outputs/Server4.png)<br />
+
+
+#### The above figure shows the Accuracy plot of the model throughout it's training journey. 
 
 
 ## :clap: And it's done!
@@ -141,22 +87,9 @@ Feel free to mail me for any doubts/query
 :email: dheeraj.sharma18@vit.edu
 
 
-
-## :handshake: Contribution
-Feel free to **file a new issue** with a respective title and description on the the [Pneumonia_Detection](https://github.com/dheerajsharma0401/Chest-Xrays-Pneumonia-Prediction/issues) repository. If you already found a solution to your problem, **I would love to review your pull request**!
-
-
 ## :heart: Owner
 Made with :heart:&nbsp;  by [Dheeraj Sharma](https://github.com/dheerajsharma0401)
 
-
-## :+1: Credits
-* [https://www.pyimagesearch.com/](https://www.pyimagesearch.com/)
-* [https://opencv.org/](https://opencv.org/)
-
-
-## :handshake: Our Contributors
-[CONTRIBUTORS.md](/CONTRIBUTORS.md)
 
 ## :eyes: Code of Conduct
 
