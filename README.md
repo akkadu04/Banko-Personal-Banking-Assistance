@@ -79,7 +79,7 @@ STEP 9:END<br>
 ![](https://github.com/akkadu04/Banko-Personal-Banking-Assistance/blob/main/Outputs/Server4.png)<br />
 
 
-#### The above figure shows the Accuracy plot of the model throughout it's training journey. 
+#### The above snapshots are consecutive activity at client and server side. 
 
 
 ## :clap: And it's done!
